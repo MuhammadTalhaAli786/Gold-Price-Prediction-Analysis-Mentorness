@@ -33,8 +33,6 @@ The dataset comprises daily gold prices from January 19, 2014, to January 22, 20
 **Conclusion:**
 This GitHub project offers a comprehensive exploration of gold price trends, providing valuable insights for investors, analysts, and researchers. By leveraging advanced analytics techniques and statistical methods, we aim to empower stakeholders with actionable information to make informed decisions in the dynamic gold market.
 
-**GitHub Repository Link:** [Insert GitHub Repository Link]
-
 **Contact Information:**
 For inquiries or collaboration opportunities, please contact:
 - [Muhammad Talha Ali]
